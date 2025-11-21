@@ -21,7 +21,7 @@ I'm an Informatics student currently building my foundation in software developm
 
 ### 📫 Reach Me
 Always open to discussions about computing, software, and study planning.  
-Feel free to reach out or check out my repositories — everything here is part of my journey into Informatics.
+Feel free to reach out or check out my repositories - everything here is part of my journey into Informatics.
 
 ---
 
