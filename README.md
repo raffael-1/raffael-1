@@ -1,6 +1,6 @@
 # Hi, I'm Raffael 👋
 
-I'm an incoming Informatics student currently building my foundation in software development and practical computing. Most of my work here revolves around exploring how code, logic, and systems interact — and how those pieces evolve into real, usable technology.
+I'm an Informatics student currently building my foundation in software development and practical computing. Most of my work here revolves around exploring how code, logic, and systems interact — and how those pieces evolve into real, usable technology.
 
 ### 🌱 What I'm Learning
 - Programming fundamentals and software best practices  
